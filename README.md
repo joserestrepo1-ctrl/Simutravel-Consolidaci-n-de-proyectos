@@ -33,10 +33,3 @@ simutravel-streamlit/
    streamlit run admin_app.py
    ```
 
-3. Abre los enlaces que aparecen en tu navegador (por defecto http://localhost:8501 y :8502).
-
-## ☁️ Despliegue
-
-Sube este repositorio a **GitHub** y publícalo en **Streamlit Cloud**:
-- Crea una app para `viajero_app.py`
-- Otra para `admin_app.py`
